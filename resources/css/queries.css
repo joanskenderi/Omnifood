@@ -1,4 +1,4 @@
-/* BIG TABLET TO 1200PX (WIDTH SMALLER THAN THE 1140px ROW) */
+/* BIG TABLET TO 1200PX */
 @media only screen and (max-width: 1200px) {
   .hero-text-box {
     width: 100%;
