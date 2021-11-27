@@ -1,4 +1,5 @@
 $(document).ready(function () {
+  
   /* STICKY NAVIGATION */
   $(".js--section-features").waypoint(
     function (direction) {
